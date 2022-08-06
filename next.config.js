@@ -5,8 +5,8 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
     },
-  basePath: 'shopping-cart',
-  assetPrefix: 'shopping-cart',
+  basePath: '/shopping-cart',
+  assetPrefix: '/shopping-cart',
   swcMinify: true,
 }
 
